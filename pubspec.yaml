@@ -24,12 +24,13 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.hello
-        pluginClass: HelloPlugin
+        package: com.appicator.FlutterMeaningfulString
+        pluginClass: FlutterMeaningfulString
       ios:
-        pluginClass: HelloPlugin
+        pluginClass: FlutterMeaningfulString
       macos:
-        pluginClass: HelloPlugin
+        pluginClass: FlutterMeaningfulString
+  
 
   # To add assets to your package, add an assets section, like this:
   # assets:
